@@ -21,7 +21,7 @@
 		},
 		{
 			"ImportPath": "github.com/elodina/siesta-producer",
-			"Rev": "e9f0c51df81955b5088868f360a8c4f3957a39a4"
+			"Rev": "6467e5fd2b8d67d5ff2f4b32989495053c463269"
 		},
 		{
 			"ImportPath": "github.com/golang/glog",
@@ -36,8 +36,8 @@
 			"Rev": "723cc1e459b8eea2dea4583200fd60757d40097a"
 		},
 		{
-			"ImportPath": "github.com/jimlawless/cfg",
-			"Rev": "8cf9686de5a8b290717494297d381948feffe19f"
+			"ImportPath": "github.com/yanzay/cfg",
+			"Rev": "3b647091f880406fdb14edcb309ce750a38d3e85"
 		},
 		{
 			"ImportPath": "gopkg.in/cihub/seelog.v2",
