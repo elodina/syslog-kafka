@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/elodina/syslog-kafka.svg?branch=master)](https://travis-ci.org/elodina/syslog-kafka)
+
 Syslog Producer for Apache Kafka 
 ==================================
 
