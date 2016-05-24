@@ -1,0 +1,15 @@
+language: go
+
+env:
+  - GO15VENDOREXPERIMENT=1
+
+go:
+  - 1.5
+  - 1.6
+  - tip
+
+install:
+  - go get github.com/Masterminds/glide
+  - go build -v
+
+script: go test -v $(glide novendor)
