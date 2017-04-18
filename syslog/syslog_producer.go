@@ -110,7 +110,7 @@ func (this *SyslogProducer) Stop() {
 	close(this.incoming)
 
 	for _, producer := range this.producers {
-		producer.Close(time.Second)
+		producer.Close()
 	}
 }
 
